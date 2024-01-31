@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @jawidan
-
-- 🌱 I’m an iOS developer 
+- 👋 Hi, I’m @jawidan, an iOS developer with more than 2 years of experience.
 
 <!---
 jawidan/jawidan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
