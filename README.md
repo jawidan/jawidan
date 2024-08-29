@@ -1,4 +1,4 @@
-👋 Ciao, I’m Javidan, an iOS developer.
+iOS developer.
 
 
 <!---
